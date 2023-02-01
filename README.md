@@ -7,7 +7,7 @@
 }
 ```
 
-### Skill
+### Skills
 ```json
 {
   "language": ["python", "typescript", "go", "clojure"]
