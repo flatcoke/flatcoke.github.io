@@ -10,6 +10,6 @@
 ### Skills
 ```json
 {
-  "language": ["python", "typescript", "go", "clojure"]
+  "languages": ["python", "typescript", "go", "clojure"]
 }
 ```
